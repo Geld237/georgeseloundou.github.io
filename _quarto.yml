@@ -1,6 +1,13 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "index.qmd"
+    - "research.qmd"
+    - "teaching.qmd"
+    - "talks.qmd"
+    - "cv.qmd"
+    - "en/*.qmd"
   resources:
     - assets/
 
