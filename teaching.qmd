@@ -1,0 +1,66 @@
+---
+title: "Enseignement"
+subtitle: "400+ heures équivalent TD depuis 2021"
+pagetitle: "Enseignement — Georges Ngnouwal Eloundou"
+toc: true
+toc-location: right
+toc-title: "Sur cette page"
+---
+
+## Approche pédagogique
+
+::: {.lead}
+Plus de **400 heures équivalent TD** dispensées depuis 2021, sur des publics variés (Licence, BUT, Bachelor finance) en France et au Cameroun.
+:::
+
+Pédagogie active fondée sur l'étude de cas, l'accompagnement de projets entrepreneuriaux et le tutorat de soutenances SAE. Cours actuels alignés sur les codes des business schools : **entrepreneuriat, management, accompagnement du changement, business plan, finance de marché**.
+
+---
+
+## IUT de Villetaneuse — Sorbonne Paris Nord {#iut}
+
+*Département Management — ATER (2025–2026), Vacataire (2024–2025)*
+
+| Année | Niveau | Cours | Vol. (h) | Effectif |
+|-------|--------|-------|---------:|---------:|
+| 2025–26 | BUT3 GEII | Entrepreneuriat (4 groupes) | 60 | 103 |
+| 2025–26 | BUT3 GEMA | Accompagnement du changement | 20 | 38 |
+| 2025–26 | BUT3 GEMA | Management des activités / relations commerciales | 50 | 38 |
+| 2025–26 | BUT3 GMIE | Management | 12 | 15 |
+| 2025–26 | BUT3 GEMA | Projet personnel et professionnel | 2 | 23 |
+| 2025–26 | BUT2 GEMA | Outils et pilotage : Business Plan | 14 | 10 |
+| 2025–26 | BUT1 GEII | Gestion de projet | 25 | 28 |
+| 2025–26 | BUT1 GEMA | Jury de soutenance SAE | 4 | — |
+| 2024–25 | BUT3 GEMA | Accompagnement du changement | 10 | 12 |
+
+---
+
+## Yaoundé School of Economics and Management {#yseme}
+
+*Département Finance — 2022–2024*
+
+| Année | Niveau | Cours | Vol. (h) | Effectif |
+|-------|--------|-------|---------:|---------:|
+| 2022–24 | Bachelor 3 | Évaluation des actifs financiers | 30 | 15 |
+| 2022–24 | Bachelor 3 | Gestion de portefeuille | 30 | 15 |
+
+---
+
+## Institut Universitaire des Sciences et Techniques de Yaoundé {#iusty}
+
+| Année | Niveau | Cours | Vol. (h) | Effectif |
+|-------|--------|-------|---------:|---------:|
+| 2022–23 | Licence 1 | Économie générale | 30 | 200 |
+
+---
+
+## Monitorat — Universités de Dschang et Yaoundé II {#monitorat}
+
+*Travaux dirigés (2018–2023) :* macroéconomie, microéconomie, statistiques, économie industrielle.
+
+---
+
+## Encadrement & jurys
+
+- Tutorat de projets entrepreneuriaux et accompagnement de soutenances SAE (BUT3, IUT Villetaneuse).
+- Jurys de soutenance SAE (BUT1).

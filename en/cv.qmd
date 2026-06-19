@@ -1,0 +1,130 @@
+---
+title: "Curriculum Vitae"
+pagetitle: "CV — Georges Ngnouwal Eloundou"
+lang: en
+toc: true
+toc-location: right
+toc-title: "Sections"
+---
+
+::: {.cv-download}
+[Download CV in English (PDF)](../assets/cv-eloundou-en.pdf){.btn-link-primary} &nbsp;
+[Télécharger le CV en français (PDF)](../assets/cv-eloundou-fr.pdf){.btn-link-secondary}
+:::
+
+## Education {#education}
+
+**2024 — PhD in Economics** \
+*Public policy analysis · Mathematical economics* \
+University of Dschang, CERME — *Mention Très Honorable* (with highest honours)
+
+**2019 — Master II — Money, Banking, Finance and Insurance** \
+University of Rennes I
+
+**2018 — Master II — Economic and Financial Engineering** \
+University of Yaoundé II
+
+**2016 — Bachelor — Economics and Management** \
+University of Yaoundé II
+
+---
+
+## Current & recent positions {#positions}
+
+**2025–2026 — Teaching and Research Fellow (ATER)** \
+IUT de Villetaneuse, Université Sorbonne Paris Nord
+
+**2024–2025 — Adjunct Lecturer (Fixed-term)** \
+IUT de Villetaneuse, Université Sorbonne Paris Nord
+
+**2024 – present — Project Manager** \
+Centre d'Études et de Recherche sur les Analyses et Politiques Économiques (CERAPE)
+
+**2024 – present — Associate Researcher** \
+Society for Inclusive and Collaborative Entrepreneurship (S4ICE)
+
+**2022 – present — Associate Researcher · Editorial Board Member** \
+CEREG, University of Yaoundé II
+
+---
+
+## Awards & qualifications {#awards}
+
+- **Qualification as Associate Professor (Maître de Conférences), CNU Section 5 — Economics** (2026)
+- **PhD with Highest Honours** (Mention Très Honorable, 2024)
+- **Erasmus Mundus Scholarship Laureate** (2018)
+
+---
+
+## Research output in figures {#figures}
+
+| Type | Total | Detail |
+|------|------:|--------|
+| Peer-reviewed journal articles | 18 | 8 CNU B · 6 CNU C · 3 NC |
+| Working papers | 7 | 1 published |
+| Book chapter | 1 | Éditions Cheikh Anta Diop (2023) |
+| Research reports | 6 | PNDP, OECD-AU, CSR |
+| International conference presentations | 6 | France, Cameroon, Morocco |
+| Seminars, workshops, study days | 9 | — |
+
+**Reach**: 8,000+ reads and 100+ citations on ResearchGate.
+
+→ Full list on the [Research](research.qmd) page.
+
+---
+
+## Institutional affiliations {#affiliations}
+
+**France**
+
+- **CEPN** — Centre d'Économie de Paris Nord, UR 7234
+- **AEI** — Academy of Entrepreneurship and Innovation
+- **AFEDEV** — French Association of Development Economists
+- **S4ICE** — Society for Inclusive and Collaborative Entrepreneurship
+
+**Cameroon**
+
+- **CEREG** — University of Yaoundé II
+- **LAREFA** — University of Dschang
+- **CERAPE** — Centre for Studies and Research
+- **ACEDA** — Association of Researchers in Applied Development Economics
+
+---
+
+## Skills {#skills}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+**Analysis methods & software** \
+R · Stata · Python · SPSS · NVivo · SQL · Excel
+
+**Primary data collection** \
+ODK · CSPro · Google Forms · questionnaire and interview guide design · focus group facilitation
+
+**Writing & presentation** \
+LaTeX · Beamer · MS Office Suite · Moodle · Quarto · HTML
+:::
+
+::: {.g-col-12 .g-col-md-6}
+**Project management** \
+MS Project · GanttProject · strategic planning · monitoring and evaluation · fundraising
+
+**Consulting & expertise** \
+Sustainable development strategies · corporate social responsibility (CSR)
+
+**Languages** \
+French (native) · English (upper intermediate)
+:::
+
+:::
+
+---
+
+## Contact {#contact}
+
+**Institutional email** — [g.eloundou@univ-paris13.fr](mailto:g.eloundou@univ-paris13.fr)
+
+**Phone** — +33 (0)7 65 28 74 43
+
+**Office address** — IUT de Villetaneuse, Université Sorbonne Paris Nord, 99 avenue Jean-Baptiste Clément, 93430 Villetaneuse, France.

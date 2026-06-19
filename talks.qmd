@@ -1,0 +1,78 @@
+---
+title: "Communications"
+subtitle: "Colloques, séminaires et workshops"
+pagetitle: "Communications — Georges Ngnouwal Eloundou"
+toc: true
+toc-location: right
+toc-title: "Sur cette page"
+---
+
+## Colloques internationaux à venir & récents {#colloques}
+
+::: {.talk}
+**8ᵉ Entrepreneurship, Innovation and Governance Conference (ENIG)** \
+EDC Paris Business School · 11 juin 2026
+:::
+
+::: {.talk}
+**6ᵉ International Conference on Development Economics (ICDE)** \
+Université Rouen Normandie · 2–3 juillet 2026
+:::
+
+::: {.talk}
+**45ᵉˢ Journées de l'Association d'Économie Sociale** \
+CEPN UR 7234, Sorbonne Paris Nord · 3–4 septembre 2026
+:::
+
+::: {.talk}
+**14ᵉ Congrès de l'Académie de l'Entrepreneuriat et de l'Innovation (AEI 2025)** \
+*« L'entrepreneuriat face aux transitions »* — Aix-en-Provence · juin 2025
+:::
+
+::: {.talk}
+**5ᵉ Colloque International sur l'Écosystème Entrepreneurial** \
+*« Entreprendre aujourd'hui : profils d'entrepreneurs et carrières entrepreneuriales »* — Douala · avril 2025
+:::
+
+::: {.talk}
+**4ᵉ Conférence Internationale sur la Francophonie Économique** \
+*« L'avenir des PME francophones sur les marchés mondiaux »* — Yaoundé · mars 2024
+:::
+
+::: {.talk}
+**4ᵉ Colloque International sur l'Écosystème Entrepreneurial** \
+*« Cultiver la résilience entrepreneuriale dans un environnement changeant »* — Casablanca · avril 2024
+:::
+
+---
+
+## Organisation scientifique {#organisation}
+
+::: {.callout-note appearance="simple" icon=false}
+**18ᵉ CIFEPME — Bruxelles, 2026** \
+Co-organisateur et porteur de la session thématique *« Entrepreneuriat informel, inclusif et durable : vers une reconfiguration des pratiques et des théories de l'Entre-Prendre »*.
+:::
+
+---
+
+## Expertise & projets de terrain {#expertise}
+
+::: {.talk}
+**PNUD — Évaluation à mi-parcours des ODD en Afrique centrale** \
+Membre de l'équipe de rédaction du rapport *« Opportunités et contraintes vers une intégration réussie »*.
+:::
+
+::: {.talk}
+**PNDP — Projet SCORECARD2, Ouest Cameroun** \
+Coordonnateur adjoint de la collecte de données et coauteur des rapports d'évaluation de l'offre de services de base (eau, santé, éducation) — communes de Njimom, Penka-Michel, Fongo-Tongo, Massangam.
+:::
+
+::: {.talk}
+**Cabinet d'Étude Multipolaire — Évaluation de la RSE (Batchenga, Ntui)** \
+Co-concepteur des outils de collecte qualitative et quantitative, analyste, coauteur du rapport.
+:::
+
+::: {.talk}
+**S4ICE — Entrepreneuriat culturel en Afrique centrale (Cameroun, Tchad)** \
+Coordonnateur adjoint, concepteur des outils d'enquête, analyste mixte, coauteur.
+:::

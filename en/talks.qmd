@@ -1,0 +1,79 @@
+---
+title: "Talks"
+subtitle: "Conferences, seminars and workshops"
+pagetitle: "Talks — Georges Ngnouwal Eloundou"
+lang: en
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+## Upcoming & recent international conferences {#conferences}
+
+::: {.talk}
+**8th Entrepreneurship, Innovation and Governance Conference (ENIG)** \
+EDC Paris Business School · 11 June 2026
+:::
+
+::: {.talk}
+**6th International Conference on Development Economics (ICDE)** \
+Université Rouen Normandie · 2–3 July 2026
+:::
+
+::: {.talk}
+**45th Conference of the French Social Economics Association** \
+CEPN UR 7234, Sorbonne Paris Nord · 3–4 September 2026
+:::
+
+::: {.talk}
+**14th Congress of the Academy of Entrepreneurship and Innovation (AEI 2025)** \
+*"Entrepreneurship facing transitions"* — Aix-en-Provence · June 2025
+:::
+
+::: {.talk}
+**5th International Conference on the Entrepreneurial Ecosystem** \
+*"Entrepreneurship today: entrepreneurial profiles and careers"* — Douala · April 2025
+:::
+
+::: {.talk}
+**4th International Conference on Economic Francophonie** \
+*"The future of francophone SMEs in global markets"* — Yaoundé · March 2024
+:::
+
+::: {.talk}
+**4th International Conference on the Entrepreneurial Ecosystem** \
+*"Building entrepreneurial resilience in a changing environment"* — Casablanca · April 2024
+:::
+
+---
+
+## Scientific organisation {#organisation}
+
+::: {.callout-note appearance="simple" icon=false}
+**18th CIFEPME — Brussels, 2026** \
+Co-organiser of the thematic session *"Informal, inclusive and sustainable entrepreneurship: toward a reconfiguration of practices and theories of Entre-Prendre"*.
+:::
+
+---
+
+## Expertise & field projects {#expertise}
+
+::: {.talk}
+**UNDP — Mid-term SDG assessment in Central Africa** \
+Member of the writing team for the report *"Opportunities and constraints toward successful integration"*.
+:::
+
+::: {.talk}
+**PNDP — SCORECARD2 Project, Western Cameroon** \
+Deputy data collection coordinator and co-author of the assessment reports on basic service provision (water, health, education) — municipalities of Njimom, Penka-Michel, Fongo-Tongo, Massangam.
+:::
+
+::: {.talk}
+**Cabinet d'Étude Multipolaire — CSR evaluation (Batchenga, Ntui)** \
+Co-designer of qualitative and quantitative data collection tools, analyst, co-author of the report.
+:::
+
+::: {.talk}
+**S4ICE — Cultural entrepreneurship in Central Africa (Cameroon, Chad)** \
+Deputy coordinator, survey design, mixed-methods analyst, co-author.
+:::

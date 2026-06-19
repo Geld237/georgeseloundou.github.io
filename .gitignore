@@ -1,0 +1,13 @@
+/_site/
+/.quarto/
+*.html
+!index.html
+.DS_Store
+Thumbs.db
+*.log
+.Rproj.user/
+*.Rproj
+.env
+node_modules/
+
+**/*.quarto_ipynb

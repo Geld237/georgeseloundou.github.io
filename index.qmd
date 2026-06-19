@@ -1,0 +1,96 @@
+---
+title: "Georges Eloundou"
+subtitle: "Économiste appliqué · Qualifié MCF Section 5 CNU (2026)"
+pagetitle: "Georges Eloundou — Économiste appliqué"
+description-meta: "Page personnelle de Georges Eloundou, économiste appliqué, ATER à l'IUT de Villetaneuse (Sorbonne Paris Nord), chercheur au CEPN. Travaux sur l'économie du développement, l'entrepreneuriat et les technologies de l'information."
+about:
+  template: trestles
+  image: assets/profile.jpg
+  image-shape: rounded
+  image-width: 18em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:g.eloundou@univ-paris13.fr
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=i_2zSosAAAAJ
+    - icon: person-vcard
+      text: ORCID
+      href: https://orcid.org/0000-0001-8187-5615
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/georges-eloundou
+    - icon: journal-text
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Georges-Ngnouwal-Eloundou
+    - icon: file-earmark-pdf
+      text: CV (PDF)
+      href: assets/cv-eloundou-fr.pdf
+---
+
+::: {.lead}
+ATER à l'**IUT de Villetaneuse**, Université Sorbonne Paris Nord. Chercheur au **CEPN** (UR 7234) et au **CEREG** (Université de Yaoundé II). Mes travaux portent sur l'**économie du développement**, l'**entrepreneuriat** et les interactions entre technologies de l'information, énergie, finance et bien-être dans les économies émergentes.
+:::
+
+J'utilise des **méthodes mixtes** — économétrie sur panels macroéconomiques, enquêtes de terrain et analyses qualitatives — pour éclairer les politiques publiques inclusives et durables. Mes terrains principaux sont l'Afrique subsaharienne et plus largement les économies émergentes.
+
+## Production scientifique en bref
+
+::: {.grid .stats-grid}
+
+::: {.g-col-6 .g-col-md-3 .stat-card}
+[**18**]{.stat-num}
+[Articles à comité de lecture]{.stat-label}
+[8 CNU B · 6 CNU C · 3 ABS]{.stat-sub}
+:::
+
+::: {.g-col-6 .g-col-md-3 .stat-card}
+[**6**]{.stat-num}
+[Rapports d'expertise]{.stat-label}
+[OCDE-UA · PNUD · PNDP]{.stat-sub}
+:::
+
+::: {.g-col-6 .g-col-md-3 .stat-card}
+[**100+**]{.stat-num}
+[Citations]{.stat-label}
+[8 000+ lectures ResearchGate]{.stat-sub}
+:::
+
+::: {.g-col-6 .g-col-md-3 .stat-card}
+[**400+**]{.stat-num}
+[Heures d'enseignement]{.stat-label}
+[Licence · BUT · Bachelor]{.stat-sub}
+:::
+
+:::
+
+## Axes de recherche
+
+- **Technologies de l'information & médias sociaux** — diffusion des TIC, croissance, bien-être, transferts de fonds, empowerment politique.
+- **Énergie, pauvreté & bien-être** — précarité énergétique, accès à l'électricité, conflits, entrepreneuriat.
+- **Entrepreneuriat & économie informelle** — résilience entrepreneuriale, informalité, stabilité institutionnelle.
+- **Empowerment des femmes & politiques publiques** — IDE, politiques environnementales, participation politique.
+- **Croissance, IDE & politiques structurelles** — infrastructures, décentralisation fiscale, image-nation, industrialisation.
+
+[Voir toutes les publications →](research.qmd){.btn-link-primary}
+
+## Affiliations
+
+**France** — [CEPN](https://cepn.univ-paris13.fr/) (Sorbonne Paris Nord, UR 7234) · AEI (Académie de l'Entrepreneuriat et de l'Innovation) · AFEDEV (Association Française des Économistes du Développement) · [S4ICE](https://s4ice.org/our-team/)
+
+**Cameroun** — CEREG (Université de Yaoundé II) · LAREFA (Université de Dschang) · CERAPE · ACEDA
+
+## Actualités
+
+::: {.news-list}
+
+**Juin 2026** — Communication acceptée à la 8ᵉ ENIG Conference (EDC Paris Business School).
+
+**Juin 2026** — Coauteur d'un rapport pour la République du Cameroun sur les impacts socio-économiques du changement climatique en périphérie du Nyong.
+
+**Mai 2026** — Qualification CNU Section 5 (Sciences économiques) obtenue.
+
+**2026** — Co-organisation de la session « Entrepreneuriat informel, inclusif et durable » au 18ᵉ CIFEPME (Bruxelles).
+
+:::

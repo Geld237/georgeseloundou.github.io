@@ -1,0 +1,77 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+
+website:
+  title: "Georges Ngnouwal Eloundou"
+  description: "Économiste appliqué · Qualifié MCF Section 5 CNU · Sorbonne Paris Nord"
+  site-url: https://georgeseloundou.github.io
+  open-graph: true
+  twitter-card: true
+  page-navigation: true
+  back-to-top-navigation: true
+
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: research.qmd
+        text: Recherche
+      - href: teaching.qmd
+        text: Enseignement
+      - href: talks.qmd
+        text: Communications
+      - href: cv.qmd
+        text: CV
+    right:
+      - text: "FR"
+        href: index.qmd
+      - text: "EN"
+        href: en/index.qmd
+      - icon: envelope
+        href: "mailto:g.eloundou@univ-paris13.fr"
+        aria-label: Email
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=i_2zSosAAAAJ
+        aria-label: Google Scholar
+      - icon: person-vcard
+        href: https://orcid.org/0000-0001-8187-5615
+        aria-label: ORCID
+      - icon: linkedin
+        href: https://www.linkedin.com/in/georges-eloundou
+        aria-label: LinkedIn
+      - icon: journal-text
+        href: https://www.researchgate.net/profile/Georges-Ngnouwal-Eloundou
+        aria-label: ResearchGate
+
+  page-footer:
+    left: "© 2026 Georges Ngnouwal Eloundou"
+    center: "Construit avec [Quarto](https://quarto.org)"
+    right:
+      - icon: envelope
+        href: "mailto:g.eloundou@univ-paris13.fr"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/georges-eloundou
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-after-body:
+      - assets/lang-switcher.html
+    toc: false
+    fontsize: 1rem
+    linestretch: 1.6
+    mainfont: "Inter, -apple-system, BlinkMacSystemFont, sans-serif"
+    monofont: "JetBrains Mono, Menlo, monospace"
+    grid:
+      sidebar-width: 0px
+      body-width: 900px
+      margin-width: 200px
+    smooth-scroll: true
+    anchor-sections: true
+
+lang: fr

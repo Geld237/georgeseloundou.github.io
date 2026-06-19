@@ -1,0 +1,67 @@
+---
+title: "Teaching"
+subtitle: "400+ hours of teaching (TD equivalent) since 2021"
+pagetitle: "Teaching — Georges Ngnouwal Eloundou"
+lang: en
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+## Teaching philosophy
+
+::: {.lead}
+More than **400 hours of teaching (TD equivalent)** since 2021, delivered to a variety of audiences (Licence, BUT, Bachelor in finance) in France and Cameroon.
+:::
+
+Active pedagogy based on case studies, mentoring of entrepreneurial projects and supervision of SAE final-year defences. Current courses are aligned with business school standards: **entrepreneurship, management, change management, business plan, financial markets**.
+
+---
+
+## IUT de Villetaneuse — Sorbonne Paris Nord {#iut}
+
+*Management Department — ATER (2025–2026), Adjunct (2024–2025)*
+
+| Year | Level | Course | Hours | Class size |
+|------|-------|--------|------:|-----------:|
+| 2025–26 | BUT3 GEII | Entrepreneurship (4 groups) | 60 | 103 |
+| 2025–26 | BUT3 GEMA | Change management | 20 | 38 |
+| 2025–26 | BUT3 GEMA | Business activities and commercial relations management | 50 | 38 |
+| 2025–26 | BUT3 GMIE | Management | 12 | 15 |
+| 2025–26 | BUT3 GEMA | Personal and professional project | 2 | 23 |
+| 2025–26 | BUT2 GEMA | Tools and steering: Business Plan | 14 | 10 |
+| 2025–26 | BUT1 GEII | Project management | 25 | 28 |
+| 2025–26 | BUT1 GEMA | SAE defence jury | 4 | — |
+| 2024–25 | BUT3 GEMA | Change management | 10 | 12 |
+
+---
+
+## Yaoundé School of Economics and Management {#yseme}
+
+*Finance Department — 2022–2024*
+
+| Year | Level | Course | Hours | Class size |
+|------|-------|--------|------:|-----------:|
+| 2022–24 | Bachelor 3 | Financial asset valuation | 30 | 15 |
+| 2022–24 | Bachelor 3 | Portfolio management | 30 | 15 |
+
+---
+
+## Institut Universitaire des Sciences et Techniques de Yaoundé {#iusty}
+
+| Year | Level | Course | Hours | Class size |
+|------|-------|--------|------:|-----------:|
+| 2022–23 | Licence 1 | General economics | 30 | 200 |
+
+---
+
+## Teaching assistant — Universities of Dschang and Yaoundé II {#ta}
+
+*Tutorials (2018–2023):* macroeconomics, microeconomics, statistics, industrial economics.
+
+---
+
+## Supervision & juries
+
+- Mentoring of entrepreneurial projects and supervision of SAE final-year defences (BUT3, IUT Villetaneuse).
+- SAE defence jury member (BUT1).

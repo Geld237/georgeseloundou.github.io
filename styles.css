@@ -1,0 +1,359 @@
+/* ===========================================================
+   Custom styles — Georges Ngnouwal Eloundou
+   Minimal, academic, calm.
+   =========================================================== */
+
+/* ---------- Color tokens ---------- */
+:root {
+  --ge-ink: #1a1a1a;
+  --ge-ink-soft: #4a4a4a;
+  --ge-muted: #6b7280;
+  --ge-line: #e5e7eb;
+  --ge-line-strong: #d1d5db;
+  --ge-bg: #ffffff;
+  --ge-bg-soft: #f8f9fa;
+  --ge-accent: #1e4d3a;       /* deep academic green */
+  --ge-accent-soft: #e8f0ec;
+  --ge-tag-bg: #f1f3f5;
+  --ge-tag-ink: #495057;
+}
+
+/* ---------- Typography baseline ---------- */
+body {
+  color: var(--ge-ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.005em;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--ge-ink);
+}
+
+h1 { font-size: 2.25rem; }
+h2 {
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--ge-line);
+}
+h3 { font-size: 1.15rem; margin-top: 2rem; }
+
+a {
+  color: var(--ge-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+a:hover {
+  color: var(--ge-accent);
+  border-bottom-color: var(--ge-accent);
+}
+
+/* Lead paragraph */
+.lead {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--ge-ink-soft);
+}
+
+/* ---------- Navbar ---------- */
+.navbar {
+  background-color: var(--ge-bg) !important;
+  border-bottom: 1px solid var(--ge-line);
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+.navbar-brand,
+.navbar .nav-link {
+  font-weight: 500;
+  color: var(--ge-ink) !important;
+}
+.navbar .nav-link:hover {
+  color: var(--ge-accent) !important;
+}
+.navbar-brand {
+  font-size: 1rem;
+  letter-spacing: -0.01em;
+}
+
+/* ---------- Language switcher (FR | EN) ---------- */
+/* Buttons get .lang-btn class added by JS (assets/lang-switcher.html) */
+.navbar a.nav-link.lang-btn {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.6rem !important;
+  color: var(--ge-muted) !important;
+  border: 1px solid var(--ge-line);
+  border-radius: 4px;
+  margin: 0 0.15rem;
+  transition: all 0.15s ease;
+}
+.navbar a.nav-link.lang-btn:hover {
+  color: var(--ge-accent) !important;
+  border-color: var(--ge-accent);
+  background: var(--ge-accent-soft);
+}
+.navbar a.nav-link.lang-active {
+  color: white !important;
+  background: var(--ge-accent);
+  border-color: var(--ge-accent);
+}
+.navbar a.nav-link.lang-active:hover {
+  color: white !important;
+  background: var(--ge-accent);
+}
+
+/* ---------- About block (home) ---------- */
+.quarto-about-trestles .about-entity {
+  text-align: center;
+}
+.quarto-about-trestles .about-entity .about-image {
+  border: 1px solid var(--ge-line);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+.quarto-about-trestles .about-entity .about-links {
+  margin-top: 1rem;
+}
+.quarto-about-trestles .about-entity .about-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.75rem;
+  margin: 0.15rem;
+  border: 1px solid var(--ge-line-strong);
+  border-radius: 6px;
+  font-size: 0.85rem;
+  color: var(--ge-ink-soft);
+  background: var(--ge-bg);
+  transition: all 0.15s ease;
+}
+.quarto-about-trestles .about-entity .about-link:hover {
+  border-color: var(--ge-accent);
+  color: var(--ge-accent);
+  background: var(--ge-accent-soft);
+}
+
+/* ---------- Stats grid (home) ---------- */
+.stats-grid {
+  margin: 2rem 0 3rem;
+  gap: 1rem;
+}
+.stat-card {
+  padding: 1.25rem 1rem;
+  background: var(--ge-bg-soft);
+  border-radius: 8px;
+  border: 1px solid var(--ge-line);
+  text-align: center;
+  transition: border-color 0.15s ease;
+}
+.stat-card:hover {
+  border-color: var(--ge-accent);
+}
+.stat-num {
+  display: block;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--ge-accent);
+  line-height: 1.1;
+}
+.stat-label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--ge-ink);
+  margin-top: 0.35rem;
+}
+.stat-sub {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--ge-muted);
+  margin-top: 0.25rem;
+}
+
+/* ---------- Publications ---------- */
+.publication {
+  padding: 1rem 0 1rem 1rem;
+  margin-bottom: 0.5rem;
+  border-left: 2px solid var(--ge-line);
+  transition: border-color 0.15s ease;
+}
+.publication:hover {
+  border-left-color: var(--ge-accent);
+}
+.publication strong {
+  font-weight: 600;
+  color: var(--ge-ink);
+}
+.publication em {
+  color: var(--ge-ink-soft);
+}
+
+.publication-wip {
+  padding-left: 1rem;
+  border-left: 2px solid var(--ge-line);
+}
+.publication-wip li {
+  margin-bottom: 0.5rem;
+}
+
+/* Tags (CNU, ABS, etc.) */
+.tags {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 0.15rem 0.5rem;
+  background: var(--ge-tag-bg);
+  color: var(--ge-tag-ink);
+  border-radius: 4px;
+  letter-spacing: 0.02em;
+}
+.links {
+  font-size: 0.85rem;
+}
+
+/* ---------- Talks ---------- */
+.talk {
+  padding: 1rem 0 1rem 1rem;
+  margin-bottom: 0.5rem;
+  border-left: 2px solid var(--ge-line);
+}
+.talk:hover {
+  border-left-color: var(--ge-accent);
+}
+.talk strong {
+  display: block;
+  margin-bottom: 0.15rem;
+}
+
+/* ---------- News list ---------- */
+.news-list {
+  padding-left: 1rem;
+  border-left: 2px solid var(--ge-accent-soft);
+}
+.news-list p {
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+}
+
+/* ---------- CV ---------- */
+.cv-download {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+/* ---------- Buttons ---------- */
+.btn-link-primary {
+  display: inline-block;
+  padding: 0.6rem 1.25rem;
+  background: var(--ge-accent);
+  color: white !important;
+  border: 1px solid var(--ge-accent);
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-decoration: none !important;
+  transition: all 0.15s ease;
+}
+.btn-link-primary:hover {
+  background: #163d2e;
+  border-color: #163d2e;
+  color: white !important;
+  border-bottom-color: #163d2e !important;
+}
+
+.btn-link-secondary {
+  display: inline-block;
+  padding: 0.6rem 1.25rem;
+  background: transparent;
+  color: var(--ge-accent) !important;
+  border: 1px solid var(--ge-accent);
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-decoration: none !important;
+  transition: all 0.15s ease;
+}
+.btn-link-secondary:hover {
+  background: var(--ge-accent-soft);
+  color: var(--ge-accent) !important;
+  border-bottom-color: var(--ge-accent) !important;
+}
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+thead {
+  border-bottom: 2px solid var(--ge-ink);
+}
+th {
+  text-align: left;
+  padding: 0.6rem 0.75rem;
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ge-ink-soft);
+}
+td {
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--ge-line);
+}
+tbody tr:hover {
+  background: var(--ge-bg-soft);
+}
+
+/* ---------- Callouts ---------- */
+.callout {
+  border-radius: 6px !important;
+}
+.callout-note {
+  border-left-color: var(--ge-accent) !important;
+}
+
+/* ---------- Footer ---------- */
+.nav-footer {
+  border-top: 1px solid var(--ge-line);
+  padding: 1.5rem 0;
+  color: var(--ge-muted);
+  font-size: 0.85rem;
+}
+.nav-footer a {
+  color: var(--ge-muted);
+}
+
+/* ---------- TOC ---------- */
+#TOC, .sidebar nav[role=doc-toc] {
+  font-size: 0.85rem;
+}
+#TOC ul, .sidebar nav[role=doc-toc] ul {
+  border-left: 1px solid var(--ge-line);
+  padding-left: 0.75rem;
+}
+
+/* ---------- Title block ---------- */
+.quarto-title-block .quarto-title .title {
+  margin-bottom: 0.25rem;
+}
+.quarto-title-block .subtitle {
+  color: var(--ge-muted);
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 768px) {
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.3rem; }
+  .stat-num { font-size: 1.5rem; }
+  .stats-grid { gap: 0.5rem; }
+  .stat-card { padding: 1rem 0.5rem; }
+}

@@ -1,0 +1,216 @@
+---
+title: "Recherche"
+subtitle: "Publications, working papers et rapports"
+pagetitle: "Recherche — Georges Ngnouwal Eloundou"
+toc: true
+toc-location: right
+toc-title: "Sur cette page"
+---
+
+## Résumé
+
+::: {.lead}
+18 articles dans des revues à comité de lecture (8 CNU B · 6 CNU C · 3 ABS) · 7 working papers · 1 chapitre d'ouvrage · 6 rapports d'expertise · 6 communications en colloques internationaux.
+:::
+
+Les publications ci-dessous sont organisées **par axe thématique** plutôt que par ordre chronologique. Pour la liste chronologique complète, voir le [CV](cv.qmd).
+
+::: {.callout-note appearance="minimal"}
+**Légende des classements** — *CNU B/C* : classement HCERES Section 5 · *ABS 1–4* : Academic Journal Guide (Chartered Association of Business Schools) · *CNRS 3/4* : classement CNRS Section 37.
+:::
+
+---
+
+## Technologies de l'information & médias sociaux {#tic}
+
+Diffusion des TIC, médias sociaux, et leurs effets sur la croissance, le bien-être, les transferts de fonds et la participation politique.
+
+::: {.publication}
+**Does social media foster informality in developing countries?** \
+*European Review of Service Economics and Management*, 2025. \
+[CNU C · CNRS 4]{.tags} · [[DOI](https://doi.org/10.48611/isbn.978-2-406-18573-4.p.0071)]{.links}
+:::
+
+::: {.publication}
+**Does social media contribute to economic growth?** \
+*Journal of the Knowledge Economy*, 1–41, 2024. \
+[CNU C · CNRS 4 · ABS 1]{.tags} · [[DOI](https://doi.org/10.1007/s13132-023-01419-1)]{.links}
+:::
+
+::: {.publication}
+**Alcohol consumption in developing countries: does information and communication technology (ICT) diffusion matter?** \
+*Journal of International Development*, 2024. \
+[CNU B · CNRS 3 · ABS 2]{.tags} · [[DOI](https://doi.org/10.1002/jid.3858)]{.links}
+:::
+
+::: {.publication}
+**In pursuit of happiness in developing countries: does the diffusion of ICT matter?** \
+*Economics Bulletin*, 43(4), 1730–1740, 2023. \
+[CNU B · CNRS 3]{.tags} · [[Lien](https://econpapers.repec.org/article/eblecbull/eb22-00799.htm)]{.links}
+:::
+
+::: {.publication}
+**Does social media drive remittances in Africa?** \
+*African Development Review*, 2023. \
+[CNU C · CNRS 4]{.tags} · [[DOI](https://doi.org/10.1111/1467-8268.12717)]{.links}
+:::
+
+::: {.publication}
+**Does social media improve women's political empowerment in Africa?** \
+*Telecommunications Policy*, 47(9), 102624, 2023. \
+[CNU C · CNRS 4 · ABS 1]{.tags} · [[DOI](https://doi.org/10.1016/j.telpol.2023.102624)]{.links}
+:::
+
+---
+
+## Énergie, pauvreté & bien-être {#energie}
+
+Précarité énergétique, accès à l'électricité, conflits internes, et leurs effets sur l'économie informelle, le bien-être et l'entrepreneuriat.
+
+::: {.publication}
+**Energy poverty and entrepreneurship: evidence from Sub-Saharan Africa** \
+*The Bottom Line*, 2025. \
+[[DOI](https://doi.org/10.1108/BL-09-2024-0169)]{.links}
+:::
+
+::: {.publication}
+**Black shadow: effect of energy poverty on informal economy in developing countries** \
+*The Journal of Energy and Development*, 49(1), 2024. \
+[CNU B · CNRS 3]{.tags} · [[DOI](https://doi.org/10.56476/jed.v49i1.21)]{.links}
+:::
+
+::: {.publication}
+**Is access to electricity a relevant determinant of happiness in developing countries?** \
+*The Journal of Energy and Development*, 2023. \
+[CNU B · CNRS 3]{.tags} · [[Lien](https://www.jstor.org/stable/27284853)]{.links}
+:::
+
+::: {.publication}
+**Impact of access to electricity on internal conflicts in Africa: does income inequality matter?** \
+*African Development Review*, 34(3), 395–409, 2022. \
+[CNU C · CNRS 4]{.tags} · [[DOI](https://doi.org/10.1111/1467-8268.12664)]{.links}
+:::
+
+---
+
+## Entrepreneuriat & économie informelle {#entrepreneuriat}
+
+Résilience entrepreneuriale, déterminants de l'informalité, dynamiques institutionnelles.
+
+::: {.publication}
+**Linking country stability and informality: empirical evidence from developing countries** \
+*Oxford Development Studies*, 2026. \
+[CNU B · CNRS 3 · ABS 2]{.tags} · [[DOI](https://doi.org/10.1080/13600818.2026.2654469)]{.links}
+:::
+
+---
+
+## Empowerment des femmes & politiques publiques {#femmes}
+
+Investissements directs étrangers, politiques environnementales et participation politique des femmes.
+
+::: {.publication}
+**The intensive role of FDI on women's empowerment in developing countries** \
+*International Journal of Finance & Economics*, 2025. \
+[CNU B · CNRS 3 · ABS 3]{.tags} · [[DOI](https://doi.org/10.1002/ijfe.70097)]{.links}
+:::
+
+::: {.publication}
+**Good or bad? Environmental policy and women's political empowerment in developing countries** \
+*Economics Bulletin*, 2025. \
+[CNU B · CNRS 3]{.tags} · [[Lien](https://econpapers.repec.org/article/eblecbull/eb-23-00209.htm)]{.links}
+:::
+
+---
+
+## Croissance, IDE & politiques structurelles {#croissance}
+
+Infrastructures, décentralisation, image-nation, IDE en temps de crise, industrialisation.
+
+::: {.publication}
+**Can we build inclusion in Africa? The key role of infrastructure** \
+*Economics Bulletin*, 46(1), 2026. \
+[CNU B · CNRS 3]{.tags} · [[Lien](http://www.accessecon.com/Pubs/EB/2026/Volume46/EB-26-V46-I1-P1.pdf)]{.links}
+:::
+
+::: {.publication}
+**Impact of nation branding on economic growth in Sub-Saharan Africa** \
+*The Bottom Line*, 2025. \
+[[DOI](https://doi.org/10.1108/BL-07-2024-0088)]{.links}
+:::
+
+::: {.publication}
+**On the path to accelerating industrialization in Africa: the role of fiscal decentralization** \
+*Journal of the Knowledge Economy*, 2025. \
+[CNU C · CNRS 4 · ABS 1]{.tags} · [[DOI](https://doi.org/10.1007/s13132-025-02602-2)]{.links}
+:::
+
+::: {.publication}
+**Foreign direct investment resilience during times of crisis: a comparative analysis between selected Eastern European and African countries** \
+*International Politics*, 2023. \
+[[DOI](https://doi.org/10.18485/iipe_mp.2023.74.1189.4)]{.links}
+:::
+
+---
+
+## Travaux en cours (soumissions & révisions) {#wip}
+
+::: {.publication-wip}
+- **What makes women entrepreneurs in the informal sector resilient?** — *International Journal of Entrepreneurial Behaviour and Research* [ABS 3]{.tags}
+- **Intellectual property and sustainable development** — *Review of Development Economics* [ABS 3]{.tags}
+- **Institution, natural resources and inequality** — *Resources Policy* [ABS 2]{.tags}
+- **Do social media improve entrepreneurship in developing economies?** — *The Journal of Entrepreneurship* [ABS 1]{.tags}
+- **Effect of entrepreneurship on irregular migration: does regulation matter?**
+- **Influence of entrepreneurial perceptions on entrepreneurial activity**
+:::
+
+---
+
+## Chapitre d'ouvrage {#chapitre}
+
+::: {.publication}
+**Quels sont les déterminants pertinents des fragilités des pays en développement ?** \
+In B. E. Ongo Nkoa (Coord.), *Le développement économique à la croisée des réflexions : illustrations par des données africaines*. Éditions Cheikh Anta Diop, 2024. \
+[Ouvrage collectif · 46 contributeurs · 700 pages]{.tags}
+:::
+
+---
+
+## Working paper publié {#wp}
+
+::: {.publication}
+**Does infrastructure development contribute to poverty reduction in Sub-Saharan Africa?** \
+SSRN Working Paper, 2022. [[SSRN](https://ssrn.com/abstract=4397985)]{.links}
+:::
+
+---
+
+## Rapports de recherche & expertise {#rapports}
+
+::: {.publication}
+**Évaluation des impacts socio-économiques des changements climatiques sur les populations vivant en périphérie du Nyong** — République du Cameroun, 2026. *Coordination : Désiré Avom.*
+:::
+
+::: {.publication}
+**Compétences sur l'exploitation minière en Afrique centrale** — Chapitre 3 du rapport *Dynamiques du développement durable en Afrique 2024 : compétences, emplois et productivité*. OCDE & Commission de l'Union Africaine, 2024. *Coordination : B. E. Ongo Nkoa.*
+:::
+
+::: {.publication}
+**Citizen Report Cards — Évaluation des services publics** (eau, santé, éducation, services communaux). PNDP, 2023. Communes de Njimom, Santchou, Fongo-Tongo, Penka-Michel.
+:::
+
+::: {.publication}
+**Perception des riverains des projets publics — RSE des entreprises étrangères** (sites de Batchenga et Ntui). Cabinet d'Étude Multipolaire, 2023.
+:::
+
+::: {.publication}
+**Opportunités et contraintes vers une intégration réussie** — Évaluation à mi-parcours des ODD en Afrique centrale. PNUD.
+:::
+
+---
+
+## Activité éditoriale
+
+Reviewer régulier pour : *Journal of International Development* [ABS 2]{.tags}, *Journal of the Knowledge Economy* [ABS 1]{.tags}, *African Development Review*, *The Bottom Line*, *Applied Economics Letters* [ABS 1]{.tags}, *World Development Perspectives*, *Economics Bulletin*, *Politics and Policy* [ABS 3]{.tags}, *South African Journal of Economics* [ABS 1]{.tags}, *Review of Development Economics* [ABS 2]{.tags}, *Journal of Entrepreneurship in Emerging Economies* [ABS 1]{.tags}, *Australian Economic Papers* [ABS 1]{.tags}.
+
+**Membre du comité de rédaction** — CEREG, Université de Yaoundé II (depuis 2022).
