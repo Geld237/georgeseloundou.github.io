@@ -12,9 +12,9 @@ project:
     - assets/
 
 website:
-  title: "Georges Ngnouwal Eloundou"
+  title: "Georges Eloundou"
   description: "Économiste appliqué · Qualifié MCF Section 5 CNU · Sorbonne Paris Nord"
-  site-url: https://georgeseloundou.github.io
+  site-url: https://geld237.github.io/georgeseloundou.github.io/
   open-graph: true
   twitter-card: true
   page-navigation: true
